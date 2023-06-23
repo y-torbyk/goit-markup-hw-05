@@ -381,8 +381,9 @@ ul {
 
 }
 
-.svg-button-modal-class:focus {
+.input-class-modal:focus {
   fill: #4D5AE5;
+  
 }
 
 
